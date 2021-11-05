@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdegrande
-- 👀 I’m interested in ... getting mroe experience and creating new projects!
+- 👀 I’m interested in ... getting more experience, adding to my Github, and creating new projects!
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Python projects and machine learning 
 - 📫 How to reach me ... email me at jdegran@uw.edu
